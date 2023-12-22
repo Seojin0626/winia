@@ -60,6 +60,7 @@ body {
     line-height: 1;
     font-family: "Noto Sans KR";
     font-weight: normal;
+    min-width: 1920px;
 }
 
 .header {
